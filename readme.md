@@ -193,7 +193,3 @@ queue.processing.delay=5000
 
 For questions or issues, please reach out to the author or create issues in the project repository.
 
----
-
-**Thank you for using this Food Delivery Backend Service!**
-```
