@@ -187,9 +187,3 @@ queue.processing.delay=5000
 - If resources are not found (e.g., invalid order ID), HTTP 404 Not Found with message is returned.
 - Unexpected errors return HTTP 500 Internal Server Error with generic message.
 
----
-
-## Contact & Support
-
-For questions or issues, please reach out to the author or create issues in the project repository.
-
